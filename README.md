@@ -1,6 +1,6 @@
 <div align="center">
 
-# ♟️ ChessClock
+# ♟️ Chess Clock
 
 **A minimal chess clock for Android and iPhone.**
 
